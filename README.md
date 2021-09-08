@@ -5,7 +5,7 @@
 - 💞️ I’m looking for a job as junior front-end developer.
 - 📫 How to reach me: c.georgak727@gmail.com
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F8699490-React-Logo-Animation&psig=AOvVaw15JKxXzqCGaPK2EtsuSIXC&ust=1631193422210000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMiFraa77_ICFQAAAAAdAAAAABAJ" alt="React logo." />
+<img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" alt="React logo." />
 
 <!---
 pickles-pickles/pickles-pickles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
