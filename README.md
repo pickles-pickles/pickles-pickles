@@ -4,7 +4,10 @@
       Also, building fancy websites with the use of Reactstrap, Bootstrap 4 and the (slowly dying, but still useful) jQuery 
 - 💞️ I’m looking for a job as junior front-end developer.
 - 📫 How to reach me: c.georgak727@gmail.com
-
+<div style="display:flex;">
+      <p>Hello<p/>
+      <p>Hello<p/>
+      <div/>
 <img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" alt="React logo." />
 
 <!---
