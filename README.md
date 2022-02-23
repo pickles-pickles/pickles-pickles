@@ -7,7 +7,7 @@
       
 - 👋 Hi, I’m Chris Georgakopoulos.
 - 👀 I hold a Bsc in Materials Science & Engineering
-- 🌱 I am a front-end developer(entry level) using  html, css, javascript and various frameworks and libraries. 
+- 🌱 I am a front-end developer(mid level) using  html, css, javascript and various frameworks and libraries. 
 - 👀 Specifically, I am skillful at React.js, Bootstrap, git/github, unit testing(Jasmine, Jest), SEO
 - 💞️ I am open for an opportunity as entry front-end developer.
 - 💞️ I am building my portofolio, so more goodies are about to come.
