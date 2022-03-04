@@ -9,7 +9,7 @@
 - 👀 I hold a Bsc in Materials Science & Engineering
 - 🌱 I am a front-end developer(mid level) using  html, css, javascript and various frameworks and libraries. 
 - 👀 Specifically, I am skillful at React.js, Bootstrap, git/github, unit testing(Jasmine, Jest), SEO
-- 💞️ I am open for an opportunity as entry front-end developer.
+- 💞️ I am open for an opportunity as junior front-end developer.
 - 💞️ I am building my portofolio, so more goodies are about to come.
 - 📫 How to reach out to me: <a href="mailto:c.georgak727@gmail.com">c.georgak727@gmail.com</a>
 - 📫 Visit my personal site :<a href="https://pickles-pickles.netlify.app" target="_blank" rel="noopener noreferrer"> https://pickles-pickles.netlify.app</a></td>
@@ -21,7 +21,7 @@
  <div width="100vw">  
  
  <h2>My tech Stack</h2>
-  <img src="https://icons1234.netlify.app/merged-with-bg.png" max-width="90%" height="auto"></td>
+  <img src="https://mystack1234.netlify.app/mystack.jpg" max-width="90%" height="auto"></td>
   </div>
 
 
