@@ -1,4 +1,4 @@
-<h1 align="center"><b>Welcome to my github!:dizzy:</b></h1>
+<h1 align="center"><b>Welcome to my github! :dizzy:</b></h1>
 <table>
  <img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" alt="React logo." width="20%" align="right" ></td>
     </tr>
