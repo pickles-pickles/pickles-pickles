@@ -6,13 +6,11 @@
 <div align="left" width="50%">
       
 - 👋 Hi, I’m Chris Georgakopoulos.
+- 🔧 I work as a front-end developer and team lead of 4
 - 👀 I hold a Msc in Software Engineering for Web and Mobile Applications
 - 👨‍🎓 My thesis topic is "Investigation and Implementation of Quantum Algorithms"
 - 👀 I hold a Bsc in Materials Science & Engineering
-- 🌱 I am a front-end developer(mid level) using  html, css, javascript and various frameworks and libraries. 
-- 👀 Specifically, I am skillful at React.js, Bootstrap, git/github, unit testing(Jasmine, Jest), SEO
-- 💞️ I am open for an opportunity as front-end developer.
-- 📋 I have used Jira in a professional environment 
+- ✨ I offer business value using my inter-disciplinary background and T-shaped expertise 
 - 💞️ I am building my portofolio, so more goodies are about to come.
 - 📫 How to reach out to me: <a href="mailto:c.georgak727@gmail.com">c.georgak727@gmail.com</a>
 - 📫 Visit my personal site :<a href="https://pickles-pickles.netlify.app" target="_blank" rel="noopener noreferrer"> https://pickles-pickles.netlify.app</a></td>
